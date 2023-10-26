@@ -1,0 +1,8 @@
+{
+    "api":"http://194.233.80.159:75/api/AppLogin/GetUserLogin",
+    "getTokenApi":"http://194.233.80.159:75/api/AppLogin/GetNotificationToken",
+    "baseUrl": "http://194.233.80.159:75/api/",
+    "url": "http://194.233.80.159:75",
+    "imageUrl": "http://194.233.80.159:75/Images/",
+    "Token":"abe9fad8-7852-43ed-9ab9-fcea44da49b8"
+}

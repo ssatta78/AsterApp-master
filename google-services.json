@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486116985847",
+    "project_id": "aster-school",
+    "storage_bucket": "aster-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486116985847:android:1530169d3b05d040a03cf2",
+        "android_client_info": {
+          "package_name": "com.Aster.AsterApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486116985847-trj6cbc0qbmtuh3d383pp7d6tucsi0jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpu1jge_A9zzDYFuP8gylPJZo8PqdJiRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486116985847-trj6cbc0qbmtuh3d383pp7d6tucsi0jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
